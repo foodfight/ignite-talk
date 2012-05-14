@@ -1,0 +1,27 @@
+*** infrastructure as code, community as colleagues
+*** For Businesses, Investing in the Chef Community has high RoI
+*** OK community awesome, what do I do next?
+   - The S in CAMS stands for Sharing
+     - Share your code
+     - Share your experiences
+     - Share your ideas
+     - Share your enthusiasm!
+   - But don't just share them on the mailing list, your blog, or IRC
+     share on meatspace!
+     - Go to LISA
+     - local SAGE
+     - XYZ sysadmin conference
+     - devops/sysadmin meetup
+     - Traveling? Offer to speak at the local geek meetup in Hong
+       Kong, Kuala Lumpur, Hyderabad
+*** The Ugly Truth about Community, If you don't get involved in the Chef Community
+    it's easy to get left behind [ Image of Chef from SouthPark ]
+  - Chef moves fast, real fast
+  - 60% of the time that I write a cookbook, I find that someone has 
+    already written a better one
+  - One of the reasons I started Food Fight was to keep on top of what
+    was happening in the community
+  - So even if you hate freedom and you hate community
+    You will be missing out if you don't get involved
+
+

@@ -1,3 +1,10 @@
-{
-  "name": "Ignite the Chef Community!"
+{ 
+  "name": "Ignite Chef Community",
+  "description" : "",
+  "author" : "Bryan Berry and Nathen Harvey",
+  "twitter" : "@FoodFightShow",
+  "templates" : {
+    "default" : "style_guide.tpl"
+  },
+  "section" : "presentation"
 }

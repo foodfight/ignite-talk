@@ -54,5 +54,5 @@ LEFT BEHIND
 
 Be sure to listen to the FoodFightShow!
 
-<center><img src="images/FoodFightbanner100px.png" height="200" width="350"
-/></center>
+![Food Fight Show](images/foodfight_banner.png)
+

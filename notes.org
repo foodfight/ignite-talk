@@ -1,11 +1,13 @@
 *** infrastructure as code, community as colleagues
+    If we think of infrastructure as code we should also think of "community as colleagues". The people in the Chef community, are your professional community. You may collaborate with them now in an unofficial manner but there's a real chance you will together with some of them (or many) of them in the future. For this reason, you should really treat the community as you would your colleagues and not as random strangers on the Internet.
 *** For Businesses, Investing in the Chef Community has high RoI
+A strong vibrant community is where you will draw your future employees, where your current employees will find training materials (blogs) and informal mentorship
+
 *** OK community awesome, what do I do next?
    - The S in CAMS stands for Sharing
-     - Share your code
-     - Share your experiences
-     - Share your ideas
-     - Share your enthusiasm!
+     - share your story
+     - share your problems
+     - Share your solutions
    - But don't just share them on the mailing list, your blog, or IRC
      share on meatspace!
      - Go to LISA
@@ -14,7 +16,7 @@
      - devops/sysadmin meetup
      - Traveling? Offer to speak at the local geek meetup in Hong
        Kong, Kuala Lumpur, Hyderabad
-*** The Ugly Truth about Community, If you don't get involved in the Chef Community
+ *** The Ugly Truth about Community, If you don't get involved in the Chef Community
     it's easy to get left behind [ Image of Chef from SouthPark ]
   - Chef moves fast, real fast
   - 60% of the time that I write a cookbook, I find that someone has 
@@ -23,5 +25,9 @@
     was happening in the community
   - So even if you hate freedom and you hate community
     You will be missing out if you don't get involved
-
+*** The Golden Rule: Be Nice!
+  - Poisonous people kill open-source projects dead
+  - Don't tolerate bad behavior from others
+  - Bad Behavior doesn't win the argument nor make you any friends
+  - JASWAT Jesse and Adam are nice So We Are Too
 

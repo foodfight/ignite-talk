@@ -40,7 +40,9 @@ LEFT BEHIND
 
 # Golden Rule
 
-<center style="font-size:6em;">JASWAT</center>  
+<center><img src="images/no-assholes.jpg"  /> </center>
+
+# Be Nice
 <center><img src="images/jesserobbins.jpg" height="150" width="150" />
 <img src="images/red-heart.png" height="100" width="100" />
 <img src="images/adam.jpg"  height="150" width="150" /></center>

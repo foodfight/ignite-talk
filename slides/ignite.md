@@ -36,11 +36,19 @@ the S in CAMS stands for Sharing
 !SLIDE
 # Don't be afraid of Meatspace
 
-* Go to LISA
-* local SAGE
-* XYZ sysadmin conference
-* devops/sysadmin meetup
-* Traveling? Offer to speak at the local geek meetup in Hong Kong, Kuala Lumpur, Hyderabad
+* Attend the big conference
+* Join the local Meetup groups
+* Traveling? Offer to speak at the local geek meetup
+
+!SLIDE
+# No local meetups? #
+
+* Start one
+  * convince your boss
+  * register a twitter handle
+  * sign-up on Meetup.com
+
+.notes http://nathenharvey.com/blog/2011/12/13/tips-for-hosting-a-tech-user-group/
 
 !SLIDE
 # The Ugly Truth
@@ -50,9 +58,29 @@ LEFT BEHIND
 <center><img src="images/chef-car.gif" /></center>
 
 !SLIDE
-# Golden Rule
+# No Assholes!
 
-<center><img src="images/no-assholes.jpg"  /> </center>
+![No Assholes](images/ramsay.jpg)
+
+.notes http://cdn.blogs.sheknows.com/realitytvmagazine.sheknows.com/2009/09/hells-kitchen-season-6-chef-ramsay-lets-his-displeasure-be-known.jpg
+
+!SLIDE 
+# No Poison
+
+![Bad Apple](images/evil_apple.jpg)
+
+.notes http://robsigrist.edublogs.org/files/2011/08/Scary-Green-Apple-by-Tina-Collins-1mdjz0w.jpg
+!SLIDE
+# No Assholes but...
+
+* You need to be more than just, "meh"
+
+!SLIDE
+# Welcome new contributors!
+
+* 3,000 lines of ruby?
+  * Swallow the horror
+  * Help make it awesome
 
 !SLIDE
 # Be Nice
@@ -64,39 +92,51 @@ LEFT BEHIND
 <center style="font-size:4em;">So We Are Too</center>
 
 !SLIDE
-# Fix bugs
+# Hug Driven-development
 
 ![lusis](images/lusis.jpg)
 
 !SLIDE
-# Community!
+# Submit patches
+
+Even little changes are appreciated!
+
+![simple pull request](images/pull_requests.jpg)
 
 !SLIDE
-# Community!
+# Food Fight Show
+
+* "bi-weekly" podcast for the Chef and DevOps  community
+* Tools, tips, process, and culture
+* What's Cookin' - All the latest in Cookbook News
 
 !SLIDE
-# Community!
+# Food Fight Show episodes
+
+* Etsy Examined
+* TESTALLTHETHINGS
+* Back to the Kernel with Greg Kroah-Hartman
+* ...and 14 more!
 
 !SLIDE
-# Community!
+# Food Fight Show
+
+* Featuring **YOU**!
+
+![@fnichol](images/fnichol_tweet.jpg)
 
 !SLIDE
-# Community!
+# Make your Cookbooks more awesome
+
+* Link to github
+* Include CHANGELOG.md
+* Add tests!
 
 !SLIDE
-# Community!
+# Contribute
 
-!SLIDE
-# Community!
-
-!SLIDE
-# Community!
-
-!SLIDE
-# Community!
-
-!SLIDE
-# Community!
+* http://github.com/foodfight
+* Patches welcome!
 
 !SLIDE
 # Listen

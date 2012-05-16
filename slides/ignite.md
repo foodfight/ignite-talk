@@ -1,18 +1,27 @@
+!SLIDE
 # Ignite the Chef Community!
 
 <center style="font-size:6em;">Let's Make the Chef Community Even
 Awesomer</center>
 
 
+!SLIDE
 # Infrastructure as code . . .
 
 <center style="font-size:6em;">Community as Colleagues</center>
 
 <img src="images/colleagues.jpg" />
                                          
+!SLIDE
 # Business Value of Community
 
+* More productive employees
+* Easier to recruit
+* Faster problem resolution
+* An excellent investment!
 
+
+!SLIDE
 # What next?
 
 CAMS
@@ -24,6 +33,7 @@ the S in CAMS stands for Sharing
 * Share your problems
 * Share your solutions
 
+!SLIDE
 # Don't be afraid of Meatspace
 
 * Go to LISA
@@ -32,16 +42,19 @@ the S in CAMS stands for Sharing
 * devops/sysadmin meetup
 * Traveling? Offer to speak at the local geek meetup in Hong Kong, Kuala Lumpur, Hyderabad
 
+!SLIDE
 # The Ugly Truth
 
 LEFT BEHIND
 
 <center><img src="images/chef-car.gif" /></center>
 
+!SLIDE
 # Golden Rule
 
 <center><img src="images/no-assholes.jpg"  /> </center>
 
+!SLIDE
 # Be Nice
 <center><img src="images/jesserobbins.jpg" height="150" width="150" />
 <img src="images/red-heart.png" height="100" width="100" />
@@ -50,9 +63,46 @@ LEFT BEHIND
 <center style="font-size:4em;">Jesse and Adam are nice</center>
 <center style="font-size:4em;">So We Are Too</center>
 
+!SLIDE
+# Fix bugs
+
+![lusis](images/lusis.jpg)
+
+!SLIDE
+# Community!
+
+!SLIDE
+# Community!
+
+!SLIDE
+# Community!
+
+!SLIDE
+# Community!
+
+!SLIDE
+# Community!
+
+!SLIDE
+# Community!
+
+!SLIDE
+# Community!
+
+!SLIDE
+# Community!
+
+!SLIDE
+# Community!
+
+!SLIDE
+# Community!
+
+!SLIDE
 # Listen
 
 Be sure to listen to the FoodFightShow!
 
 ![Food Fight Show](images/foodfight_banner.png)
+
 

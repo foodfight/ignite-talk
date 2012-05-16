@@ -24,7 +24,7 @@ Awesomer</center>
 !SLIDE
 # What next?
 
-CAMS
+CAM<font style="font-size:2em;">S</font>
 
 <br />
 the S in CAMS stands for Sharing
@@ -40,6 +40,9 @@ the S in CAMS stands for Sharing
 * Join the local Meetup groups
 * Traveling? Offer to speak at the local geek meetup
 
+<center><img src="images/globe_chef.jpg" width="150px" height="200px" /></center>
+
+
 !SLIDE
 # No local meetups? #
 
@@ -53,27 +56,32 @@ the S in CAMS stands for Sharing
 !SLIDE
 # The Ugly Truth
 
-LEFT BEHIND
+It's Easy to get LEFT BEHIND
 
 <center><img src="images/chef-car.gif" /></center>
 
 !SLIDE
 # No Assholes!
 
-![No Assholes](images/ramsay.jpg)
+<center><img src="images/ramsay.jpg" height="400px" width="600px" /> </center>
 
 .notes http://cdn.blogs.sheknows.com/realitytvmagazine.sheknows.com/2009/09/hells-kitchen-season-6-chef-ramsay-lets-his-displeasure-be-known.jpg
 
 !SLIDE 
-# No Poison
+# Poisonous People Kill Fun Dead
 
-![Bad Apple](images/evil_apple.jpg)
+![Bad Apple](images/no_fun.jpg)
 
-.notes http://robsigrist.edublogs.org/files/2011/08/Scary-Green-Apple-by-Tina-Collins-1mdjz0w.jpg
+.notes http://www.herbcompanion.com/uploadedImages/Blogs/Contributors/dog.jpg
+
 !SLIDE
 # No Assholes but...
 
-* You need to be more than just, "meh"
+* We need to be more than just
+
+![Meh](images/meh.jpg)
+
+.notes http://robsigrist.edublogs.org/files/2011/08/Scary-Green-Apple-by-Tina-Collins-1mdjz0w.jpg
 
 !SLIDE
 # Welcome new contributors!
@@ -90,9 +98,10 @@ LEFT BEHIND
 <br />
 <center style="font-size:4em;">Jesse and Adam are nice</center>
 <center style="font-size:4em;">So We Are Too</center>
-
+<br />
+<center style="font-size:4em;">JASWAT! or . . .</center>
 !SLIDE
-# Hug Driven-development
+# Hug Driven Development
 
 ![lusis](images/lusis.jpg)
 

@@ -104,7 +104,7 @@ It's Easy to get LEFT BEHIND
 !SLIDE
 # Hug Driven Development
 
-![lusis](images/lusis.jpg)
+![lusis](images/adamhjk_lusis.jpg)
 
 !SLIDE
 # Submit patches
